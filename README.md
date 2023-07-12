@@ -1,6 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Shivam Kumar</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner2.png"> </div>
-<h3 align="center">A passionate developer from India</h3>
+<div align="center"> <img src="https://github.com/shivam01netcom/shivam01netcom/blob/main/shivam-kumar.jpg"> </div>
+<h3 align="center">A Passionate Web Developer From India. I work in Corporate IT Sector and in my free time I like to play chess and outdoor game || connect me at : https://www.linkedin.com/in/shivam-kumar-keshari/</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
