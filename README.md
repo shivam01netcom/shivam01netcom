@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on NetCom Learning , Noida New Delhi **NetCom 365**
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently working on **Next Js** project
 
 - 👨‍💻 All of my projects are available at [https://shivam01portfolio.netlify.app/](https://shivam01portfolio.netlify.app/)
 
